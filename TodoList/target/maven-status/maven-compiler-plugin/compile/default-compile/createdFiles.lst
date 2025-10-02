@@ -1,0 +1,11 @@
+com\todo\TodoList\models\User$UserBuilder.class
+com\todo\TodoList\repo\TodoRepository.class
+com\todo\TodoList\service\TodoService.class
+com\todo\TodoList\models\User.class
+com\todo\TodoList\TodoListApplication.class
+com\todo\TodoList\controller\TodoController.class
+com\todo\TodoList\models\Todo.class
+com\todo\TodoList\controller\AuthController.class
+com\todo\TodoList\service\UserService.class
+com\todo\TodoList\repo\UserRepository.class
+com\todo\TodoList\security\SecurityConfig.class
